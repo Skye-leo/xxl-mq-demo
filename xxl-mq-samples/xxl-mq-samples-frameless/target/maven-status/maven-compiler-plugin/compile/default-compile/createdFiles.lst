@@ -1,0 +1,3 @@
+com/xxl/mq/sample/frameless/conf/XxlMqConf.class
+com/xxl/mq/sample/frameless/XxlMqFramelessApplication.class
+com/xxl/mq/sample/frameless/mqconsumer/Demo2MqComsumer.class
